@@ -88,9 +88,12 @@ public class MainActivity extends AppCompatActivity
 //        }
         if(id==R.id.personalCenter){
 
+
         }else if(id==R.id.addText){
 
+
         }else if(id==R.id.myText){
+
 
         }
 

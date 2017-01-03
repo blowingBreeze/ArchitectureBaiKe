@@ -11,4 +11,9 @@ class Function{
     static final String SelectTextList="SelectTextInfoList";
 
     static final String AddUser="InsertUserInfo";
+    static final String AddText="InsertTextInfo";
+
+    static final String DeleteDocument="DeleteTextInfo";
+
+    static final String UpdateDocument="UpdateTextInfo";
 }
