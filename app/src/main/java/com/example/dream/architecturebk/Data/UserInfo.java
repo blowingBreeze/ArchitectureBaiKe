@@ -5,4 +5,19 @@ package com.example.dream.architecturebk.Data;
  */
 
 public class UserInfo {
+    private int UserID;
+    private int DocumentNum;
+
+    public int getUserID(){
+        return this.UserID;
+    }
+    public int getDocumentNum(){
+        return this.DocumentNum;
+    }
+    void setUserID(int userID){
+        this.UserID=userID;
+    }
+    void setDocumentNum(int documentNum){
+        this.DocumentNum=documentNum;
+    }
 }
