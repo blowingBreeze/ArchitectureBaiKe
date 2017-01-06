@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArchitectureBK.iml" filepath="$PROJECT_DIR$/ArchitectureBK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArchitectureBaiKe.iml" filepath="$PROJECT_DIR$/ArchitectureBaiKe.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
