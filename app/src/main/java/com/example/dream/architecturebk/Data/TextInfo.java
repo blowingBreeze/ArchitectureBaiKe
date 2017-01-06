@@ -4,41 +4,50 @@ package com.example.dream.architecturebk.Data;
  * Created by dream on 2016/12/31.
  */
 
-public class TextInfo {
+public class TextInfo
+{
     private String Text;
     private String Title;
     private int UserID;
     private int DocumentID;
 
-    public String getText() {
+    public String getText()
+    {
         return this.Text;
     }
 
-    public String getTitle() {
+    public String getTitle()
+    {
         return this.Title;
     }
 
-    public int getUserID() {
+    public int getUserID()
+    {
         return this.UserID;
     }
 
-    public int getDocumentID() {
+    public int getDocumentID()
+    {
         return this.DocumentID;
     }
 
-    void setText(String text) {
+    void setText(String text)
+    {
         this.Text = text;
     }
 
-    void setTitle(String title) {
+    void setTitle(String title)
+    {
         this.Title = title;
     }
 
-    void setUserID(int userID) {
+    void setUserID(int userID)
+    {
         this.UserID = userID;
     }
 
-    void setDocumentID(int documentID) {
+    void setDocumentID(int documentID)
+    {
         this.DocumentID = documentID;
     }
 }
