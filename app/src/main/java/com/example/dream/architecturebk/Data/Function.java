@@ -5,15 +5,19 @@ package com.example.dream.architecturebk.Data;
  */
 
 
-class Function{
-    static final String SelectUserInfo="SelectUserInfo";
-    static final String SelectDocInfo="SelectTextInfo";
-    static final String SelectTextList="SelectTextInfoList";
+class Function
+{
+    static final String SelectUserInfo = "SelectUserInfo";
+    static final String SelectDocInfo = "SelectTextInfo";
+    static final String SelectTextList = "SelectTextInfoList";
 
-    static final String AddUser="InsertUserInfo";
-    static final String AddText="InsertTextInfo";
+    static final String GetDocNum="GetDocNum";
 
-    static final String DeleteDocument="DeleteTextInfo";
+    static final String AddUser = "InsertUserInfo";
+    static final String AddText = "InsertTextInfo";
 
-    static final String UpdateDocument="UpdateTextInfo";
+    static final String DeleteDocument = "DeleteTextInfo";
+    static final String UpdateDocument = "UpdateTextInfo";
+
+    static final String Login = "Login";
 }
